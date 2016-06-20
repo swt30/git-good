@@ -32,3 +32,4 @@ You can also do this directly from github! Look for the pencil symbol, which let
 # This section reserved for your changes
 
 I sure do love learning how to use git. I wonder what zany things others will add after this line?
+Hey .astronomy, how it's going?
